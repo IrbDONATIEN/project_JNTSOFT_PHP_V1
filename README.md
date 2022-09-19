@@ -14,7 +14,7 @@ Developers using this project should already have:
 - File database: db_jntsoft.sql
 
 ##The application logic:
-The one who is considered the administrator Chief Administrative and the rest are users, like accountant, receptionist and manager.
+- The one who is considered the administrator Chief Administrative and the rest are users, like accountant, receptionist and manager.
 ## Types of users:
 - Administrator : JNTSOFT and password: 11111
 - User type: Chief Administrative, accountant, receptionist and manager.
