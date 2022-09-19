@@ -13,7 +13,7 @@ Developers using this project should already have:
 - MySQL
 - File database: db_jntsoft.sql
 
-##The application logic:
+## The application logic:
 - The one who is considered the administrator Chief Administrative and the rest are users, like accountant, receptionist and manager.
 ## Types of users:
 - Administrator : JNTSOFT and password: 11111
