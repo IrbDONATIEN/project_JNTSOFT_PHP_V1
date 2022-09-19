@@ -17,4 +17,4 @@ Developers using this project should already have:
 The one who is considered the administrator Chief Administrative and the rest are users, like accountant, receptionist and manager.
 ## Types of users:
 - Administrator : JNTSOFT and password: 11111
-- User type: Administrator,Inspection, health zone and Hospital.
+- User type: Chief Administrative, like accountant, receptionist and manager.
