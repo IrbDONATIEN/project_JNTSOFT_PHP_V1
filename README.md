@@ -8,7 +8,7 @@ JNTSOFT
 
 JNTSOFT is a web application for managing employee subscriptions in a hospital for medical care by their employer, giving the employer the possibility to do the pre-registration remotely and complete the process in the hospital in question for administrative formalities.
 
-![preview img](/accueil.PNG)
+![accueil](https://user-images.githubusercontent.com/111361566/194839746-a7ce4070-75ba-4bd1-9f19-7de76ac8c490.PNG)
 
 ## Overview
 
